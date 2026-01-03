@@ -1,7 +1,7 @@
 # Mikrotik CHR – Network Support Engineer Task
 
 ## Candidate
-Waqar Rawal
+Muhammad Waqar Hussain 
 
 ## What is this project?
 This project shows how I installed and configured a Mikrotik CHR router, applied security rules, automated RADIUS configuration using Ansible, and deployed a Hotspot network.
@@ -40,4 +40,5 @@ Added a second interface, configured Hotspot service, and exported full router c
 
 ## Result
 A complete working network with firewall protection, automated RADIUS authentication, and operational Hotspot service.
+
 
